@@ -1,3 +1,4 @@
+#Rafael Bustos
 class MalariaCases:
     def __init__(self, name:str, cases:dict[str, int], gdppc:int, population:int, continent:str):
         self.name = name
